@@ -15,7 +15,7 @@ function Reg() {
       return;
     }
 
-    navigate("/account"); 
+    navigate("/profile"); 
   };
 
   return (

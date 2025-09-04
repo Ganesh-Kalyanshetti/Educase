@@ -1,4 +1,4 @@
-import { use } from "react"
+
 import { useNavigate } from "react-router-dom"
 import '../Styles/login.css'
 
@@ -21,7 +21,7 @@ function Login()
             <div className="input-box">
                 <fieldset>
                     <legend>Password</legend>
-                    <input type="email" placeholder="Enter password"  />
+                    <input type="password" placeholder="Enter password"  />
                 </fieldset>
             </div>
 

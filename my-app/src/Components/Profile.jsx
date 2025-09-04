@@ -1,4 +1,4 @@
-import '../assets/Photo.png'
+import photo from '../assets/Photo.png'
 import '../Styles/profile.css'
 
 function Details() {
