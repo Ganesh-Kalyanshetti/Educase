@@ -1,0 +1,61 @@
+body {
+
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f3f3f3;
+    display: flex;
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    margin: 0;
+    padding: 0px;
+}
+
+.Dashboard {
+
+    width: 375px;
+    height: 90vh;
+    color: black;
+    background-color: #fff;
+    border-radius: 6px;
+    display: flex;
+    border: none;
+    justify-content: flex-end;
+    flex-direction: column;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 10px;
+}
+
+.msg h2 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.msg p {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 20px;
+}
+
+.regbtn {
+    width: 100%;
+    background-color: #6d28d9;
+    color: white;
+    padding: 12px 0;
+    border-radius: 6px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 12px;
+
+}
+
+.loginbtn {
+    width: 100%;
+    background-color: #c4b5fd;
+    color: #1f2937;
+    padding: 12px 0;
+    border-radius: 6px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+}
