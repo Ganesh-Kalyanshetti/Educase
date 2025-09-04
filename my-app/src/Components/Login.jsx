@@ -27,7 +27,7 @@ function Login()
 
             <br />
 
-            <button className="loginbtns">
+            <button onClick={()=>navigate("/profile")} className="loginbtns">
                 Login
             </button>
         </div>
